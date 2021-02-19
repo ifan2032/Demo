@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.title-box {
+  padding-top: 10px;
+}
+
+.form-box {
+  width: 400px;
+  height: 540px;
+  background-color: pink;
+  border-radius: 20px;
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+  box-shadow: 0 2.8px 10px black,
+              0 -2.8px 10px black,
+              2.8px 0 10px black,
+              -2.7px 0 10px black;
+}
+
+.entry-box {
+  width: 250px;
+  height: 300px;
+  background-color: white;
+  border: 1px solid black;
+  margin: auto;
+  padding-left: 10px;
+  text-align: left;
+
+}
+
+.input-box {
+  border: 1px solid black;
+  width: 250px;
+  margin: auto;
+  padding-top: 8px;
+  margin-top: 8px;
+  border-radius: 5px;
+}
+
+.green-button-1 {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(157, 204, 157);
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.green-button-2 {
+  padding-left: 110px;
+  padding-right: 110px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(157, 204, 157);
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+
+body {
+  background: lightgrey;
+}
